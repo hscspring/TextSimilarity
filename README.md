@@ -17,6 +17,14 @@
 - [蚂蚁金服 - 金融智能 NLP 服务 Rank2 解决方案 - 博海文思](http://skyhigh233.com/blog/2018/09/28/mayi-nlp-rank2/)
 - [Top9 竞赛总结 - NLP 语义相似度 第三届拍拍贷 “魔镜杯” 大赛 - 知乎](https://zhuanlan.zhihu.com/p/55610493)
 
+## 论文
+
+- [A Resource-Light Method for Cross-Lingual Semantic Textual Similarity](http://arxiv.org/abs/1801.06436)
+- [Semantically-informed distance and similarity measures for paraphrase plagiarism identification](http://arxiv.org/abs/1805.11611)
+- [Semantic Sentence Matching with Densely-connected Recurrent and Co-attentive Information](http://arxiv.org/abs/1805.11360)
+- [Multi-Label Transfer Learning for Semantic Similarity](http://arxiv.org/abs/1805.12501)
+- [Learning Distributed Representations of Sentences from Unlabelled Data](http://arxiv.org/abs/1602.03483)
+
 ## 数据
 
 - [ATEC 蚂蚁开发者大赛](https://dc.cloud.alipay.com/index#/topic/data?id=8)
